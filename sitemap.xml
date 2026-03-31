@@ -409,6 +409,10 @@
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
+         <loc>https://oceanlin-me.github.io/circuits/sims/decibel-scale/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
          <loc>https://oceanlin-me.github.io/circuits/sims/diode/</loc>
          <lastmod>2026-03-31</lastmod>
     </url>
@@ -493,6 +497,10 @@
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
+         <loc>https://oceanlin-me.github.io/circuits/sims/real-capacitor-model/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
          <loc>https://oceanlin-me.github.io/circuits/sims/resistor/</loc>
          <lastmod>2026-03-31</lastmod>
     </url>
@@ -505,7 +513,15 @@
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
+         <loc>https://oceanlin-me.github.io/circuits/sims/rms-calculation/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
          <loc>https://oceanlin-me.github.io/circuits/sims/second-order-filter/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://oceanlin-me.github.io/circuits/sims/signal-parameters/</loc>
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
